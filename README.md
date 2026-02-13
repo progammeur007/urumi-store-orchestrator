@@ -15,7 +15,7 @@ A production-grade, multi-tenant Kubernetes provisioning system designed to auto
 1.  **Clone the Repository**:
     ```bash
     git clone [https://github.com/progammeur007/urumi-store-orchestrator.git](https://github.com/progammeur007/urumi-store-orchestrator.git)
-    cd urumi-store-orchestrator
+    cd urumi-project
     ```
 2.  **Run Backend**:
     ```bash
@@ -25,7 +25,7 @@ A production-grade, multi-tenant Kubernetes provisioning system designed to auto
     ```
 3.  **Run Frontend**:
     ```bash
-    cd frontend
+    cd dashboard
     npm install
     npm run dev
     ```
